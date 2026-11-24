@@ -1,7 +1,8 @@
 
 streamlit
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
+streamlit-webrtc
+mediapipe==0.10.21
+opencv-python-headless
+numpy==1.26.4
+protobuf==4.25.8
+av
